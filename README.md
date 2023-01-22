@@ -88,10 +88,13 @@ Take a screenshotof the site and upload it.
     </body>
 </html>
 ```
-## OUTP![image1](https://user-images.githubusercontent.com/118660461/213906547-757ca9cd-9052-496d-b99d-850518f7c201.png)
-UT:
+## OUTPUT:
+![image1](https://user-images.githubusercontent.com/118660461/213906547-757ca9cd-9052-496d-b99d-850518f7c201.png)
+
 
 ### Home Page:
- file:///home/sec/Pictures/Screenshots/image2.png
+![image2](https://user-images.githubusercontent.com/118660461/213906697-1775a070-76d9-4857-a418-8fbaa77c88a6.png)
+
+ 
 ## Result:
 Thus a website is designed to perform mathametical calculation on server side.
